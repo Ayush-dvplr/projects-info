@@ -11,5 +11,5 @@
     "started_on": "",
     "finished_on": "",
     "tags": []
-  },
+  }
 ]
