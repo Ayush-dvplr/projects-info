@@ -1,12 +1,15 @@
-[{
+
+[
+  {
     name: "",
     short_desc: "",
     desc: "",
     url: "",
-    langs_used: [],
-    tech_used: [],
-    lib_used: [],
+    language_used: [],
+    technology_used: [],
+    libraries_used: [],
     started_on: "",
-    finished_on: ""
-
-}]
+    finished_on: "",
+    tags: []
+  },
+]
