@@ -11,7 +11,43 @@
     "started_on": "",
     "finished_on": "",
     "tags": []
+  } , {
+    "name": "qr generator app",
+    "short_desc": "",
+    "desc": "",
+    "url": "https://wi84m9.csb.app/",
+    "language_used": [],
+    "technology_used": [],
+    "libraries_used": [],
+    "started_on": "",
+    "finished_on": "",
+    "tags": []
   },
+    {
+    "name": "ipod design",
+    "short_desc": "",
+    "desc": "",
+    "url": "https://ipodreact.netlify.app",
+    "language_used": [],
+    "technology_used": [],
+    "libraries_used": [],
+    "started_on": "",
+    "finished_on": "",
+    "tags": []
+  },
+      {
+    "name": "contact book",
+    "short_desc": "",
+    "desc": "",
+    "url": "https://cn-contact-book.netlify.app",
+    "language_used": [],
+    "technology_used": [],
+    "libraries_used": [],
+    "started_on": "",
+    "finished_on": "",
+    "tags": []
+  },
+  
   {
     "name": "Name's gender guessing app",
     "short_desc": "",
@@ -48,18 +84,7 @@
     "finished_on": "",
     "tags": []
   },
-  {
-    "name": "qr generator app",
-    "short_desc": "",
-    "desc": "",
-    "url": "https://wi84m9.csb.app/",
-    "language_used": [],
-    "technology_used": [],
-    "libraries_used": [],
-    "started_on": "",
-    "finished_on": "",
-    "tags": []
-  },
+
   {
     "name": "Food recipe App",
     "short_desc": "",
